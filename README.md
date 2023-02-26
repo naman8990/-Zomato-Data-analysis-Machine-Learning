@@ -26,3 +26,8 @@ I start by creating a first table and giving some of its columns the following n
 
 5.delivery_review_number
 
+-->I combined both tables in the following step to create the new one, and then I preprocessed the data.
+  Now we have the complete data with us to build a machine learning model
+  To see the code and model refer to the .ipynb files.
+  
+  ## Thank You
